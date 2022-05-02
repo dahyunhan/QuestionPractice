@@ -23,4 +23,3 @@ public class FunctionTest {
     }
     //n1, n2 - num1, num2 는 지역변수 -> 서로 다른 스택 메모리 사용
 }
-//Doit 자바프로그래밍 입문
