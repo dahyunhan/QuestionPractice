@@ -7,7 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 
-.class
 .idea
-.iml
+*.iml
 .xml
+/out
